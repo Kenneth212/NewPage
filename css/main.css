@@ -1,0 +1,18 @@
+
+body{
+  background-image: url("http://www.twitterevolutions.com/bgs/night-city-scape-twitter-background.jpg");
+}
+
+h1{
+	color: #ccc;
+}
+h2{
+	border: 10px solid white;
+}
+
+h3{
+	text-shadow: 4px 4px 4px black;
+	text-align: right;
+ 	
+ 	
+}
